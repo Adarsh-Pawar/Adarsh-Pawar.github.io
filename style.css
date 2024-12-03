@@ -377,6 +377,16 @@ box-shadow:  19px 19px 38px #63605c,
   height: 80%;
 }
 
+#about .section-container {
+  justify-content: space-around;
+}
+
+#about .text-container {
+  margin-top: 20px;
+  text-align: justify;
+  font-size: 1.5rem;
+}
+
 
 
 /* EXPERIENCE SECTION */

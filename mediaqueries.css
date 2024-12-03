@@ -103,6 +103,10 @@
   }
 
   
+#about .education-br {
+  display: none;
+}
+
   #about .about-containers {
   flex-direction: column;
   }
@@ -110,11 +114,12 @@
 
   #about .section {
     /* height: max-content; */
-    height: 130vh;
+    height: 140vh;
   }
   
   #about .text-container {
-    margin: 5px 10px 0px 10px;
+    margin: 20px 10px 10px 10px;
+    font-size: 1rem;
   }
 
   #about .details-container {
