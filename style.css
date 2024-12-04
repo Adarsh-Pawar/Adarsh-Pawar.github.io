@@ -325,6 +325,8 @@ a:hover {
 #about .section {
   position: relative;
   height: 100vh;
+  /* height: auto;  */
+  padding: 20px; 
 }
 
 .about-containers {

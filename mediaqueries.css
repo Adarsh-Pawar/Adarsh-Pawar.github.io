@@ -114,12 +114,16 @@
 
   #about .section {
     /* height: max-content; */
-    height: 140vh;
+    /* height: 140vh; */
+    /* height: auto; */
+    min-height: 160vh;
+    /* padding: 20px; */
+    /* overflow: visible; */
   }
   
   #about .text-container {
     margin: 20px 10px 10px 10px;
-    font-size: 1rem;
+    font-size: 0.8rem;
   }
 
   #about .details-container {
